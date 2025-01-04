@@ -1,0 +1,2 @@
+<p <?php echo e($attributes->merge(["class"=>"mb-6"])); ?>><?php echo e($slot); ?></p>
+<?php /**PATH /home/haroon/Documents/mazoezi/muziki/resources/views/components/cards/cardpara-wide.blade.php ENDPATH**/ ?>

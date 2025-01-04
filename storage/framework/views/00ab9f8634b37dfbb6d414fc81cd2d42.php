@@ -1,0 +1,2 @@
+<img <?php echo e($attributes->merge(['class'=>'self-start rounded-lg w-40 h-40 mt-6 object-cover shadow-md' ])); ?>>
+<?php /**PATH /home/haroon/Documents/mazoezi/muziki/resources/views/components/cards/card-small-image.blade.php ENDPATH**/ ?>

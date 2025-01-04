@@ -1,0 +1,1 @@
+<button <?php echo e($attributes(['class' => 'bg-blue-600 rounded py-2 px-6 text-white font-bold'])); ?>><?php echo e($slot); ?></button><?php /**PATH /home/haroon/Documents/mazoezi/muziki/resources/views/components/forms/button.blade.php ENDPATH**/ ?>

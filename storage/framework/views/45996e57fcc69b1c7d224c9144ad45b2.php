@@ -1,0 +1,2 @@
+<h1 <?php echo e($attributes->merge(['class'=>'text-4xl font-bold mb-4'])); ?>><?php echo e($slot); ?></h1>
+<?php /**PATH /home/haroon/Documents/mazoezi/muziki/resources/views/components/cards/cardheading-wide.blade.php ENDPATH**/ ?>

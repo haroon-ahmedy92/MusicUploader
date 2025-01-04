@@ -1,0 +1,2 @@
+<h2 <?php echo e($attributes->merge(['class'=>'text-2xl font-semibold mb-4'])); ?>><?php echo e($slot); ?></h2>
+<?php /**PATH /home/haroon/Documents/mazoezi/muziki/resources/views/components/heading.blade.php ENDPATH**/ ?>
